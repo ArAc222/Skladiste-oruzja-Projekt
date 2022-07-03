@@ -1,0 +1,7 @@
+﻿  functions.c
+C:\Users\luka2\source\repos\SKLADISTE_PUSAKA\SKLADISTE_PUSAKA\functions.c(125,3): warning C4033: 'pretraziPuske' must return a value
+C:\Users\luka2\source\repos\SKLADISTE_PUSAKA\SKLADISTE_PUSAKA\functions.c(170,22): warning C4090: 'function': different 'const' qualifiers
+C:\Users\luka2\source\repos\SKLADISTE_PUSAKA\SKLADISTE_PUSAKA\functions.c(170,37): warning C4090: 'function': different 'const' qualifiers
+C:\Users\luka2\source\repos\SKLADISTE_PUSAKA\SKLADISTE_PUSAKA\functions.c(173,14): warning C4090: 'return': different 'const' qualifiers
+C:\Users\luka2\source\repos\SKLADISTE_PUSAKA\SKLADISTE_PUSAKA\functions.c(147): warning C4715: 'pretraziPuske': not all control paths return a value
+  SKLADISTE_PUSAKA.vcxproj -> C:\Users\luka2\source\repos\SKLADISTE_PUSAKA\x64\Debug\SKLADISTE_PUSAKA.exe
